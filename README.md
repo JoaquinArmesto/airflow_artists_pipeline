@@ -1,4 +1,4 @@
-# Coderhouse's Data Engineering Example Final Project
+# Data Engineering Artists Data Pipeline
 ### Developed by Axel Furlan
 
 ## Requirements
