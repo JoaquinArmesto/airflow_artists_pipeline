@@ -1,3 +1,4 @@
 .env
 credentials.env
 db-init-scripts
+dags/__pycache__
