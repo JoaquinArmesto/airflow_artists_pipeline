@@ -1,5 +1,4 @@
 # Data Engineering Artists Data Pipeline
-### Developed by Axel Furlan
 
 ## Requirements
 - Have Docker
